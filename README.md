@@ -1,4 +1,4 @@
-Angular / Spring Boot Starter Project
+Angular / Spring Boot Starter Project  
 --------------------------------------
 
 This project provides a simple starter for Angular, Spring Boot projects.  Out of the box, this starter syncs the frontend and backend and makes a simple REST call to the Spring Boot server.  Angular is built using the angular-cli.  The Spring Boot backend uses Maven as the build tool.  
